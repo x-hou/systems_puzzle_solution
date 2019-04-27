@@ -9,13 +9,13 @@ This web application is built for an eCommerce website where user can sell and b
 ## How to RUN
 
 Open Bash and enter the dictionary. Run
-'''
+```
 docker-compose up -d
-'''
+```
 The web application will be available at localhost:8080.
 
 ## Prerequisite
-'''
+```
 Docker
 Docker Compose
-'''
+```
