@@ -10,6 +10,7 @@ This web application is built for an eCommerce website where user can sell and b
 
 Open Bash and enter the dictionary. Run
 ```
+docker-compose build
 docker-compose up -d
 ```
 The web application will be available at localhost:8080.
